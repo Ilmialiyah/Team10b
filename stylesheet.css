@@ -1,0 +1,27 @@
+footer {
+    background-color: #1A1315;
+    color: #EAE9EA;
+    height: 300px;
+    width: auto;
+}
+
+.nomor-telpon {
+    float: left;
+    margin: 100px 50px 50px;
+}
+
+.nomor-alamat {
+    float: left;
+    margin: 100px 50px 50px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-sosmed {
+    color: #fff;
+    padding-bottom: 20px;
+    float: left;
+    margin: 50px 100px;
+}
