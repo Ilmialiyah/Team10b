@@ -37,3 +37,8 @@ p {
     font-size: 15px;
     letter-spacing: 1px;
 }
+
+.btn-sosmed {
+    float: left;
+    padding-bottom: 20px;
+}
