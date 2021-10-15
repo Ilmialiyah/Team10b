@@ -21,10 +21,20 @@ p {
 
 .atas-telpon {
     letter-spacing: 7px;
+    font-size: 12px;
 }
 
 .atas-alamat {
     letter-spacing: 3px;
+    font-size: 12px;
+}
+
+.email {
+    font-size: 10px;
+}
+
+.alamat {
+    font-size: 10px;
 }
 
 .btn-sosmed {
