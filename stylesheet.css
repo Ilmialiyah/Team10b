@@ -1,47 +1,29 @@
 footer {
     background-color: #1A1315;
     color: #EAE9EA;
-    height: 400px;
+    height: 370px;
     width: auto;
 }
 
-.nomor-telpon {
-    float: left;
+.nomor{
+    display: flex;
+}
+
+.nomor-telpon{
     margin: 100px 150px;
 }
 
-.nomor-alamat {
-    float: left;
+.nomor-alamat{
     margin: 100px 100px;
-}
-
-p {
-    font-family: 'Roboto', sans-serif;
-}
-
-.atas-telpon {
-    letter-spacing: 5px;
-    font-size: 15px;
-}
-
-.atas-alamat {
-    letter-spacing: 2.5px;
-    font-size: 15px;
-}
-
-.email {
-    font-size: 15px;
-}
-
-.alamat {
-    font-size: 15px;
-    letter-spacing: 1px;
 }
 
 .btn-sosmed {
     margin: 5px;
 }
 
-.btn-twitter {
-    margin: 50px 100px 150px;
+.twitter {
+    margin: 5px 150px;
+    color: #EAE9EA;
+    width: 50px;
+    height: 50px;
 }
