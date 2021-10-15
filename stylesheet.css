@@ -20,7 +20,11 @@ p {
 }
 
 .atas-telpon {
-    letter-spacing: 5px;
+    letter-spacing: 7px;
+}
+
+.atas-alamat {
+    letter-spacing: 3px;
 }
 
 .btn-sosmed {
