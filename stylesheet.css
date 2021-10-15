@@ -19,6 +19,10 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+.atas {
+    letter-spacing: 5px;
+}
+
 .btn-sosmed {
     color: #fff;
     padding-bottom: 20px;
