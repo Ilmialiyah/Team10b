@@ -5,25 +5,49 @@ footer {
     width: auto;
 }
 
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
 .nomor{
     display: flex;
 }
 
 .nomor-telpon{
-    margin: 100px 150px;
+    padding: 100px 100px 50px 150px;
 }
 
 .nomor-alamat{
-    margin: 100px 100px;
+    padding: 100px 100px 50px 100px;
 }
 
 .btn-sosmed {
-    margin: 5px;
+    display: flex;
+}
+
+.atas {
+    text-align: center;
+}
+
+.telpon {
+    letter-spacing: 5px;
+}
+
+.alamat {
+    letter-spacing: 1.5px;
 }
 
 .twitter {
-    margin: 5px 150px;
+    padding: 50px 20px 20px 150px;
     color: #EAE9EA;
-    width: 50px;
-    height: 50px;
+}
+
+.facebook {
+    padding: 50px 15px 20px 15px;
+    color: #EAE9EA;
+}
+
+.instagram {
+    padding: 50px 20px 20px 20px;
+    color: #EAE9EA;
 }
