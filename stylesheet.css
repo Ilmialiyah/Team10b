@@ -39,11 +39,9 @@ p {
 }
 
 .btn-sosmed {
-    float: left;
     margin: 5px;
 }
 
 .twitter {
-    float: left;
-    margin-top: 100px;
+    margin: 50px 100px 150px;
 }
