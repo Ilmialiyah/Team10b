@@ -1,0 +1,18 @@
+@media (max-width: 1000px) {
+    .nomor {
+        text-align: left;
+    }
+
+    .nomor-telpon{
+        padding: 40px 100px 20px 30px;
+    }
+    
+    .nomor-alamat{
+        padding: 20px 100px 50px 300px;
+    }
+
+    .twitter {
+        padding: 50px 20px 20px 30px;
+        color: #EAE9EA;
+    }
+}
