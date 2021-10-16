@@ -114,3 +114,46 @@ section {
 .header .icons div:hover {
   color: var(--main-color);
 }
+#menu-btn {
+  display: none;
+}
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: url(../images/home-img.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home .content {
+  max-width: 60rem;
+}
+
+.home .content h3 {
+  font-size: 6rem;
+  text-transform: uppercase;
+  color: #192a56;
+  margin-bottom: 10px;
+}
+
+.home .content p {
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 1.2;
+  padding: 20px 10px 0px 10px;
+  color: #eee;
+  text-transform: none;
+}
+
+.home .boxcontent {
+  background-color: rgba(39, 36, 36, 0.7);
+  border-radius: 20px;
+}
+
+.home .btn {
+  background-color: #192a56;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
